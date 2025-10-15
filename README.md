@@ -59,16 +59,21 @@
 
 ### 🐍 My Contributions Snake  
 
+### 🐍 My Contributions Snake
+
 <p align="center">
-  <img src="https://github.com/Gugan07/Gugan07/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img alt="contribution-snake" src="https://github.com/Gugan07/Gugan07/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
 ### 🏆 Achievements  
 
+### 🐍 My Contributions Snake
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gugan07&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/Gugan07/Gugan07/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
