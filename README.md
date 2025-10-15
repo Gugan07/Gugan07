@@ -57,24 +57,10 @@
 
 ---
 
-### 🐍 My Contributions Snake  
-
-### 🐍 My Contributions Snake
-
-<p align="center">
-  <img alt="contribution-snake" src="https://github.com/Gugan07/Gugan07/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-
 ---
 
 ### 🏆 Achievements  
 
-### 🐍 My Contributions Snake
-
-<p align="center">
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/Gugan07/Gugan07/main/dist/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
