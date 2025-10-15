@@ -1,0 +1,29 @@
+name: Update Contribution Snake
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Gugan07
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit and push snake animation
+        run: |
+          mkdir -p dist
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg || true
+          git diff --cached --quiet || (git commit -m "update snake animation" && git push)
