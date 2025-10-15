@@ -1,0 +1,88 @@
+<!-- 🌟 Gugan's GitHub Profile README 🌟 -->
+
+<!-- Typing effect banner -->
+<p align="center">
+  <a href="https://github.com/Gugan07">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey!+I'm+Gugan+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Lifelong+Learner+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me  
+🎯 Passionate about building **intelligent web applications** that blend **AI + full-stack power**.   
+🌱 Learning: **Deep Learning, NLP, and Scalable Backend Systems**.  
+⚙️ Tech Explorer | 📊 Data Lover | 🎨 UI/UX Enthusiast.  
+
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,django,nodejs,mongodb,mysql,git,github,vscode,bootstrap,tensorflow,cpp,java&perline=8" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugan&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugan&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gugan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🏗️ Highlight Projects  
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🎬 [**FilmBox**](https://github.com/gugan/filmbox) | Letterboxd-style movie review platform with TMDb API integration. | React, Django, MongoDB |
+| 🤖 [**AI Quiz Generator**](https://github.com/gugan/ai-quiz-generator) | Converts lecture notes into AI-generated quiz questions. | Python, NLP |
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/gugan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gugan" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:gugan@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+### 🐍 My Contributions Snake  
+
+<p align="center">
+  <img src="https://github.com/gugan/gugan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gugan&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gugan&label=Profile%20Views&color=00ccff&style=for-the-badge" alt="profile views" />
+</p>
+
+---
+
+### ✨ Quote to Live By  
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+
+---
+
+⭐️ **From [Gugan](https://github.com/Gugan07)**  
+💻 *Full Stack Developer & AIML Enthusiast*
