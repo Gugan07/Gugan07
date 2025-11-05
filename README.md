@@ -12,7 +12,6 @@
 ### 🧠 About Me  
 🎯 Passionate about building **intelligent full-stack applications** that merge **AI and web development**.  
 🌱 Learning: **Deep Learning**, **NLP**, and **Scalable Backend Architectures**.  
-⚙️ Tech Explorer
 
 ---
 
