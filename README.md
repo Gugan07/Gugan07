@@ -3,7 +3,7 @@
 <!-- Typing effect banner -->
 <p align="center">
   <a href="https://github.com/Gugan07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey!+I'm+Gugan+👋;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Lifelong+Learner+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey!+I'm+Gugan+👋;Full+Stack+Developer+💻;Cloud+Enthusiast+🤖;Lifelong+Learner+🚀" alt="Typing SVG" />
   </a>
 </p>
 
