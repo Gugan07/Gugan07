@@ -68,10 +68,5 @@
 
 ---
 
-### ✨ Quote to Live By  
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
-
----
-
 ⭐️ **From [Gugan07](https://github.com/Gugan07)**  
 💻 *Full Stack Developer & AIML Enthusiast*
