@@ -6,11 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hey!+I'm+Gugan+👋;Full+Stack+Developer+💻;Cloud+Enthusiast+🤖;Lifelong+Learner+🚀" alt="Typing SVG" />
   </a>
 </p>
-
-### 🧠 About Me  
-🎯 Passionate about building **intelligent full-stack applications** that merge **AI and web development**.  
-🌱 Learning: **Deep Learning**, **NLP**, and **Scalable Backend Architectures**.  
-
 ---
 
 ### ⚡ Tech Stack
@@ -51,11 +46,6 @@
   <a href="mailto:m.r.gugan24@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-### 🏆 Achievements  
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gugan07&label=Profile%20Views&color=00ccff&style=for-the-badge" alt="profile views" />
 </p>
@@ -63,4 +53,4 @@
 ---
 
 ⭐️ **From [Gugan07](https://github.com/Gugan07)**  
-💻 *Full Stack Developer & AIML Enthusiast*
+💻 *Full Stack Developer & Cloud Enthusiast*
